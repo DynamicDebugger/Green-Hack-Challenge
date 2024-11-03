@@ -60,7 +60,7 @@ We learned about the importance of accurate data processing and the complexities
 Our next steps include scaling the model to support various industries, enhancing prediction accuracy, and incorporating additional metrics like energy consumption. We plan to expand the eco-challenges platform to encourage broader corporate competition and create a larger global impact.
 
 ## Demo
-[Watch the Demo](https://drive.google.com/file/d/1tk_Sfzswd664qweOiWL7oZhWBHg1hgzA/view?usp=sharing)
+[![image](https://github.com/user-attachments/assets/7666b8b3-5991-4fd8-9ae7-d40c4d02bd43)](https://drive.google.com/file/d/1tk_Sfzswd664qweOiWL7oZhWBHg1hgzA/view?usp=sharing)
 
 ---
 ## Tags
