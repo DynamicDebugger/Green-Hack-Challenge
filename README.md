@@ -1,4 +1,4 @@
-# ECO2RP: Real-Time Machine Learning for Pollution Reduction and Maximizing Environmental Impact
+# Real-Time Machine Learning for Pollution Reduction and Maximizing Environmental Impact
 
 ## Inspiration
 With industries becoming increasingly tech-driven, the environmental impact of corporate carbon emissions has grown significantly. ECO2RP was created to help corporates monitor, reduce, and offset their emissions through real-time machine learning. This project aims to promote eco-friendly behaviors among employees while creating a positive environmental footprint.
